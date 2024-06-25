@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.2/17873
 // Filename: Amarea Interior 01.ggsk
-// Generated 2024-06-24T22:36:59
+// Generated 2024-06-24T22:45:13
 
 function pano2vrSkin(player,base) {
 	player.addVariable('ht_ani', 2, true);
